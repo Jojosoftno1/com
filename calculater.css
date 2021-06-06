@@ -1,0 +1,106 @@
+h1{
+    color:black;
+    font-family: cursive; 
+    text-align: center;
+    top: 36%;
+    right:43% ;
+    position: fixed;
+}
+
+#box{
+    color:black;
+    background-color: cornflowerblue;
+    top:30%;
+    left:42%;
+    position: absolute;
+    height:350px;
+    width: 300px;
+    border-radius: 2cm;
+}
+img{
+    height: 80px ;
+    width: 80px;
+    top: -10%;
+    left: 37%;
+    position: absolute;
+    border-radius: 1cm; 
+}
+#num1{
+    top: 48%;
+    right:41.5% ;
+    position: fixed;
+    text-align: center;
+    font-family:cursive;
+    border-radius: 1cm;
+    outline: black;
+}
+#num2{
+    top: 54%;
+    right:41.5% ;
+    position: fixed;
+    text-align: center;
+    font-family:cursive;
+    border-radius: 1cm;
+    outline: black;
+}
+#multiply{
+    top: 60%;
+    right:50.5% ;
+    position: fixed;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    border-radius: 0.5cm;
+}
+#add{
+    top: 60%;
+    right:48.5% ;
+    position: fixed;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    border-radius: 0.5cm;
+}
+#sub{
+    top: 60%;
+        right:46.5% ;
+        position: fixed;
+        height: 25px;
+        width: 25px;
+        text-align: center;
+        border-radius: 0.5cm;
+}
+#div{
+    top: 60%;
+    right:44.5% ;
+    position: fixed;
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    border-radius: 0.5cm;
+}
+h2{
+    color:black;
+    font-family: cursive; 
+    text-align: center;
+    top: 63%;
+    right:46% ;
+    position: fixed;
+}
+#multi{
+    top: 72%;
+    right:41.5% ;
+    position: fixed;
+    font-family:cursive;
+    border-radius: 1cm;
+    background-color: black;
+    height: 25px;
+    width: 200px;
+    color: rgb(255, 255, 255);
+}
+#man{
+    top: 70%;
+    left: 50.5%;
+    position: fixed;
+    color: chartreuse;
+}
